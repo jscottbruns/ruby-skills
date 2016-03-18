@@ -7,6 +7,8 @@ val1 = true and false
 val2 = true && false
 ```
 
+***
+
 ### 2. Which of the expressions listed below will result in `"false"`
 
 ```ruby
@@ -68,7 +70,16 @@ a_number/ mynum
 a_number /mynum
 ```
 
-### 6. What's the difference between `$my_var` and `@my_var`?
+### 6. What's the difference between the following two variables?
+```ruby
+$my_var
+``` 
+
+and 
+
+```ruby 
+@my_var
+```
 
 
 ### 7. Consider the following code:
